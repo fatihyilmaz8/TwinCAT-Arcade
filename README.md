@@ -1,4 +1,4 @@
 # TwinCATArcade
-Snake Game with ST developed in TwinCAT 2
+Snake Game with ST (Structured Text) developed in TwinCAT 2
 
 https://www.youtube.com/watch?v=CvJUsWdxMus
